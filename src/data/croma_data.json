@@ -1,0 +1,9 @@
+{
+    "products": [
+        {
+            "name": "Dell Inspiron",
+            "image": "some_image_url",
+            "price": 48000.00
+        }
+    ]
+}

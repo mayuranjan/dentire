@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "name": "Macbook Pro 16 M2 16 GB",
+            "image": "some_image_url",
+            "price": 169500.00
+        },
+        {
+            "name": "Macbook Air 16 M2 8 GB",
+            "image": "some_image_url",
+            "price": 85999.00
+        },
+        {
+            "name": "Lenovo",
+            "image": "some_image_url",
+            "price": 43000.00
+        }
+    ]
+}

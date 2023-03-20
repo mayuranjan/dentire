@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "name": "Macbook Pro 16 M2 16 GB",
+            "image": "some_image_url",
+            "price": 199500.00
+        },
+        {
+            "name": "Macbook Air 16 M2 8 GB",
+            "image": "some_image_url",
+            "price": 89999.00
+        },
+        {
+            "name": "Dell XPS",
+            "image": "some_image_url",
+            "price": 189000.00
+        }
+    ]
+}

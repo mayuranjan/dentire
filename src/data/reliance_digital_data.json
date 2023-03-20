@@ -1,0 +1,9 @@
+{
+    "products": [
+        {
+            "name": "Lenovo",
+            "image": "some_image_url",
+            "price": 42900.00
+        }
+    ]
+}
